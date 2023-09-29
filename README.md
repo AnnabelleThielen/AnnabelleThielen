@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Annabelle Thielen
+### How to reach me: annabelle.thielen@wsu.edu
 
 <!--
 **AnnabelleThielen/AnnabelleThielen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
